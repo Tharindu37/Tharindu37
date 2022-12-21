@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> </p>
 
+[![An image of @tharindu37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindu37)](https://holopin.io/@tharindu37)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Node js and Spring**
@@ -29,5 +31,3 @@
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" />
   </p>
-  
-[![An image of @tharindu37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindu37)](https://holopin.io/@tharindu37)
