@@ -27,8 +27,8 @@
 <h3 align="left">Hacktoberfest 2022:</h3>
 
 [![An image of @tharindu37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindu37)](https://holopin.io/@tharindu37)
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" />
-  </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu37&show_icons=true&locale=en" alt="tharindu37" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" /></p>
+
   
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
