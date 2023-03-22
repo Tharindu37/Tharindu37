@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> </p>
-<p align="left">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> </p>
+<p align="center">
   <a href="https://app.daily.dev/tharinduDev"><img src="https://api.daily.dev/devcards/a5d002b3a47b48a8b42187cfbd8a5131.png?r=ssb" width="120" alt="tharindu lakshan's Dev Card"/></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
   </p>
