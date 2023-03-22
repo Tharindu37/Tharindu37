@@ -5,16 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> </p>
 <p align="left">
   <a href="https://app.daily.dev/tharinduDev"><img src="https://api.daily.dev/devcards/a5d002b3a47b48a8b42187cfbd8a5131.png?r=ssb" width="120" alt="tharindu lakshan's Dev Card"/></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
   </p>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
 - 🌱 I’m currently learning **Angular, Node js and Spring**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **tharindut520@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+  
 <a href="https://github.com/Tharindu37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-lakshan-241873227" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19528572/tharindu-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tharindu-lakshan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tharindu.tharindulakshan.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindu.tharindulakshan.37" height="30" width="40" /></a>
