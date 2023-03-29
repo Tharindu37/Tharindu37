@@ -24,8 +24,8 @@
     <th>Languages</th>
     <th>Front-End</th>
     <th>Back-End</th>
-    <th>Version Control</th>
     <th>Database</th>
+    <th>Version Control</th>
     <th>Cloud</th>
     <th>Devops</th>
     <th>Mobile development</th>
