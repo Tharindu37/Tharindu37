@@ -73,8 +73,11 @@
 [![An image of @tharindu37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindu37)](https://holopin.io/@tharindu37) 
 
 <h3 align="left">Status:</h3>
-<p align="left">
-  <a href="https://app.daily.dev/tharinduDev"><img src="https://api.daily.dev/devcards/a5d002b3a47b48a8b42187cfbd8a5131.png?r=ssb" width="120" alt="tharindu lakshan's Dev Card"/></a>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tharindu37&show_icons=true&locale=en" alt="tharindu37" width="400"/>
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" />
-</p>
+<table>
+<tr>
+  <td><a href="https://app.daily.dev/tharinduDev"><img src="https://api.daily.dev/devcards/a5d002b3a47b48a8b42187cfbd8a5131.png?r=ssb" width="120" alt="tharindu lakshan's Dev Card"/></a></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=tharindu37&show_icons=true&locale=en" alt="tharindu37" width="400"/></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" /></td>
+  <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu37&" alt="tharindu37" width="400"/></p></td>
+</tr>
+</table>
