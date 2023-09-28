@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<h3 align="left">Hacktoberfest 2022:</h3>
+<h3 align="left">Hacktoberfest 2022, 2023:</h3>
 
 [![An image of @tharindu37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindu37)](https://holopin.io/@tharindu37) 
 
