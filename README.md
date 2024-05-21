@@ -1,6 +1,6 @@
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink"><img width="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>, I'm Tharindu Lakshan</h1>
 
-<h3 align="center">A passionate software engineer from Sri Lanka/h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;width:70px" data-target="animated-image.originalImage"></a>
