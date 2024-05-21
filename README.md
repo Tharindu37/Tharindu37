@@ -1,6 +1,6 @@
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink"><img width="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>, I'm Tharindu Lakshan</h1>
 
-<h3 align="center">A passionate software engineer from Sri Lanka<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-target="animated-image.originalLink"><img width="25" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></h3>
+<h3 align="center">A passionate software engineer from Sri Lanka/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu37&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu37" /> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;width:70px" data-target="animated-image.originalImage"></a>
@@ -29,6 +29,7 @@
     <th>Cloud</th>
     <th>Devops</th>
     <th>Mobile development</th>
+    <th>AI</th>
   </tr>
   <tr>
     <td>
@@ -43,11 +44,15 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency-systems-filled/48/nextjs.png" alt="nextjs"/>
+      <img width="40" height="40" src="https://img.icons8.com/nolan/40/scene-builder.png" alt="scene-builder"/>
     </td>
     <td>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+      <img width="48" height="48" src="https://img.icons8.com/material-rounded/48/django.png" alt="django"/>
     </td>
     <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -55,15 +60,28 @@
     </td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+      <img width="40" height="40" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/40/null/amazon-web-services.png"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud-platform.png" alt="google-cloud-platform"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
     </td>
     <td>
       <img src="https://img.icons8.com/fluency/40/null/docker.png"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/48/null/react-native.png"/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+      <img width="48" height="48" src="https://img.icons8.com/material/48/keras.png" alt="keras"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/>
     </td>
   </tr>
 </table>
