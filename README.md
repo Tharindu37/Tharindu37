@@ -71,6 +71,7 @@
       <img src="https://img.icons8.com/fluency/40/null/docker.png"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/ansible.png" alt="ansible"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/48/null/react-native.png"/>
