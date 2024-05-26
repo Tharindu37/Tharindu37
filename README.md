@@ -29,7 +29,7 @@
     <th>Cloud</th>
     <th>Devops</th>
     <th>Mobile development</th>
-    <th>AI</th>
+    <th>Artificial Intelligence(ML/DL)</th>
   </tr>
   <tr align="center">
     <td>
