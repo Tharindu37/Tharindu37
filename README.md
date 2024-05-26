@@ -31,7 +31,7 @@
     <th>Mobile development</th>
     <th>AI</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
