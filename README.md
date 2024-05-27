@@ -30,6 +30,8 @@
     <th>Devops</th>
     <th>Mobile development</th>
     <th>Artificial Intelligence(ML/DL)</th>
+    <th>Big Data</th>
+    <th>Blockchain</th>
   </tr>
   <tr align="center">
     <td>
@@ -83,6 +85,12 @@
       <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
       <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://github.com/Tharindu37/ProSolutions/blob/development/hyperledger_fabric.png"/>
     </td>
   </tr>
 </table>
