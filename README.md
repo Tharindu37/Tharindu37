@@ -6,9 +6,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;width:70px" data-target="animated-image.originalImage"></a>
 </p>
   
-- 🌱 I’m currently learning **Angular, Node js and Spring**
+- 🌱 I’m currently learning **DevOps and Machine Learning**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **tharindut520@gmail.com**
 
