@@ -74,6 +74,7 @@
       <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/ansible.png" alt="ansible"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/48/null/react-native.png"/>
