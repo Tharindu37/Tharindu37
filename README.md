@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/channel/UCQtGi-QSZqQW1_53Pt4HM-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ictfun" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Used Languages and Tools:</h3>
 <table>
   <tr>
     <th>Languages</th>
@@ -32,6 +32,8 @@
     <th>Artificial Intelligence(ML/DL)</th>
     <th>Big Data</th>
     <th>Blockchain</th>
+    <th>UI UX Design</th>
+    <th>Project Management</th>
   </tr>
   <tr align="center">
     <td>
@@ -92,6 +94,13 @@
     </td>
     <td>
       <img width="48" height="48" src="https://github.com/Tharindu37/ProSolutions/blob/development/hyperledger_fabric.png"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
+      <img width="50" height="50" src="https://img.icons8.com/bubbles/50/clickup.png" alt="clickup"/>
     </td>
   </tr>
 </table>
