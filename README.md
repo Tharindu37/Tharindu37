@@ -34,6 +34,7 @@
     <th>Blockchain</th>
     <th>UI UX Design</th>
     <th>Project Management</th>
+    <th>Softeare Testing</th>
   </tr>
   <tr align="center">
     <td>
@@ -101,6 +102,9 @@
     <td>
       <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
       <img width="50" height="50" src="https://img.icons8.com/bubbles/50/clickup.png" alt="clickup"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="selenium-test-automation"/>
     </td>
   </tr>
 </table>
