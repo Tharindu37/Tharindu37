@@ -22,15 +22,15 @@
 <table>
   <tr>
     <th>Languages</th>
-    <th>Front-End</th>
-    <th>Back-End</th>
+    <th>Front_End</th>
+    <th>Back_End</th>
     <th>Database</th>
     <th>Version Control</th>
     <th>Cloud</th>
     <th>Devops</th>
     <th>Mobile development</th>
     <th>Artificial Intelligence(ML/DL)</th>
-    <th>Big Data</th>
+    <th>Big_Data</th>
     <th>Blockchain</th>
     <th>UI UX Design</th>
     <th>Project Management</th>
