@@ -26,7 +26,7 @@
     <th>Back_End</th>
     <th>Database</th>
     <th>Version Control</th>
-    <th>Cloud</th>
+    <th>Cloud Providers</th>
     <th>Devops</th>
     <th>Mobile development</th>
     <th>Artificial Intelligence(ML/DL)</th>
