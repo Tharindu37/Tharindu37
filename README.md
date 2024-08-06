@@ -82,6 +82,7 @@
     <td>
       <img src="https://img.icons8.com/color/48/null/react-native.png"/>
       <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
     </td>
     <td>
       <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
