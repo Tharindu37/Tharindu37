@@ -35,6 +35,7 @@
     <th>UI UX Design</th>
     <th>Project Management</th>
     <th>Softeare Testing</th>
+    <th>Build_Tools</th>
   </tr>
   <tr align="center">
     <td>
@@ -106,6 +107,9 @@
     </td>
     <td>
       <img width="48" height="48" src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="selenium-test-automation"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
     </td>
   </tr>
 </table>
