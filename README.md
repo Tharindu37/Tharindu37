@@ -60,16 +60,19 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
       <img width="50" height="50" src="https://img.icons8.com/material-rounded/48/django.png" alt="django"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+      <img width="48" height="48" src="https://github.com/Tharindu37/ProSolutions/blob/development/dotnet.png"/>
       <img width="48" height="48" src="https://github.com/Tharindu37/ProSolutions/blob/development/fastapi.png"/>
     </td>
     <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
       <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db"/>
     </td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
       <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/40/null/amazon-web-services.png"/>
@@ -107,6 +110,7 @@
     <td>
       <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
       <img width="50" height="50" src="https://img.icons8.com/bubbles/50/clickup.png" alt="clickup"/>
+      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/asana.png" alt="asana"/>
     </td>
     <td>
       <img width="48" height="48" src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="selenium-test-automation"/>
