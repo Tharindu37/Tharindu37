@@ -75,6 +75,7 @@
     <td>
       <img src="https://img.icons8.com/color/40/null/amazon-web-services.png"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud-platform.png" alt="google-cloud-platform"/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
     </td>
     <td>
@@ -129,9 +130,5 @@
   <td><img src="https://github-readme-stats.vercel.app/api?username=tharindu37&show_icons=true&locale=en" alt="tharindu37" width="400"/></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu37&show_icons=true&locale=en&layout=compact" alt="tharindu37" /></td>
   <td colspan="3"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu37&" alt="tharindu37" width="400"/></p></td>
-<!--   <td><a href="https://app.daily.dev/tharinduDev"><img src="https://api.daily.dev/devcards/a5d002b3a47b48a8b42187cfbd8a5131.png?r=ssb" width="120" alt="tharindu lakshan's Dev Card"/></a></td> -->
 </tr>
-<!--   <tr>
-  <td colspan="3"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu37&" alt="tharindu37" width="400"/></p></td>
-  </tr> -->
 </table>
