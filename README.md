@@ -6,8 +6,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="max-width: 100%; display: inline-block;width:70px" data-target="animated-image.originalImage"></a>
 </p>
   
-- 🌱 **Currently Learning:** DevOps • Machine Learning • Software Architecture • AI Engineering  
-- 💬 **Ask Me About:** Software Design • Software Development • Deployment • AI Systems  
+- 🚀 **Focused On:** DevOps • Machine Learning • Software Architecture • AI Engineering | **Expertise:** Software Design • Development • Deployment • AI Systems 
 - 💼 **Available for Freelance:**  
   [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0162e0d4df206aa986?mp_source=share)
   [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/tharindulaks123/buying?source=avatar_menu_profile)  
