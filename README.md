@@ -29,7 +29,7 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=android,angular,arduino,aws,azure,bootstrap,c,cpp,cs,css,django,docker,electron,express,figma,firebase,flutter,gcp,git,graphql,hadoop,html,java,javascript,jenkins,kubernetes,linux,mongodb,mysql,nextjs,nodejs,opencv,pandas,php,postgres,python,pytorch,react,reactnative,redis,sklearn,selenium,spring,tailwind,tensorflow,typescript,webpack&perline=20&size=55" />
+<img src="https://skillicons.dev/icons?i=angular,arduino,aws,azure,bootstrap,c,cpp,cs,css,django,docker,electron,express,figma,firebase,flutter,gcp,git,graphql,html,java,javascript,jenkins,kubernetes,linux,mongodb,mysql,nextjs,nodejs,opencv,php,postgres,python,pytorch,react,redis,sklearn,selenium,spring,tailwind,tensorflow,typescript,webpack&perline=20&size=55" />
 
 </div>
 
