@@ -44,17 +44,16 @@
 ---
 
 ## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tharindu37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tharindu37&theme=tokyonight&utcOffset=5.5" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tharindu37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tharindu37&theme=tokyonight" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharindu37&theme=tokyonight&hide_border=true" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharindu37&theme=tokyonight" width="100%"/>
     </td>
   </tr>
 </table>
